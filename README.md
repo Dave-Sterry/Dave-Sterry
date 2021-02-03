@@ -5,6 +5,6 @@
   </p>
 </div>
 <div>
- <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/?username=Dave-Sterry&show_icons=true&theme=synthwave&hide_border=true" width="49%"/>
+ <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api/?username=Dave-Sterry&theme=synthwave&hide_border=true" width="49%"/>
  <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dave-Sterry&show_icons=true&theme=synthwave&layout=compact&hide_border=true" width="49%"/>
 </div>
